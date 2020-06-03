@@ -1,5 +1,5 @@
-FROM Python:3.7-alpine
-MAINTAINER Divesh Kapoor 
+FROM python:3.7-alpine
+MAINTAINER Divesh Kapoor
 
 ENV PYTHONUNBUFFERED 1
 
